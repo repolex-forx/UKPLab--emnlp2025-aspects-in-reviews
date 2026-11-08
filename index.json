@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2025-aspects-in-reviews",
+  "versions": [
+    {
+      "commit": "39076968c4630fd20cbe318a533ce90e981dd762",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:39:03.901613+00:00"
+    }
+  ]
+}
