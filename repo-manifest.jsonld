@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2025-aspects-in-reviews/commit/39076968c4630fd20cbe318a533ce90e981dd762",
       "git:hexsha": "39076968c4630fd20cbe318a533ce90e981dd762",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:39:03.901252+00:00"
     }
   ]
 }
